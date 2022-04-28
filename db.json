@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card at station 9999",
+      "attention": false,
+      "tech": "Sara William",
+      "date": "2022-02-25T11:18:29.403Z"
+    },
+    {
+      "message": "ajgsdgdsa",
+      "attention": true,
+      "tech": "Jen Williamson",
+      "date": "2022-02-26T17:42:32.880Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Jen",
+      "lastName": "Williamson",
+      "id": 4
+    },
+    {
+      "firstName": "Rajnish",
+      "lastName": "Jaiswal",
+      "id": 6
+    },
+    {
+      "firstName": "Kajal ",
+      "lastName": "Jaiswal",
+      "id": 7
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "id": 8
+    }
+  ]
+}
